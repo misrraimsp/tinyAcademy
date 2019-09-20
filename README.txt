@@ -1,7 +1,7 @@
-Año 2016
+year 2016
 
-Pequeño proyecto que simula una academia. Se trata de practicar en Java el uso dediferentes estructuras de datos, como pilas, colas o árboles.
+Tiny project that simulates an academic organization, with the aim of introduce and strengthen practical skills with different basic data structures, such as stacks, queues and trees.
 
-Para más info ver:
+For more info see:
 'Task Definition.pdf'
 'Final Report.pdf'
